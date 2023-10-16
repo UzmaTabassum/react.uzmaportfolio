@@ -22,7 +22,7 @@ export const data = {
     education: [
       {
         title: "Secondary",
-        subTitle: "Sri Chaitanya School",
+        subTitle: "Narayana School",
         description:
           "10th Grade",
       },
