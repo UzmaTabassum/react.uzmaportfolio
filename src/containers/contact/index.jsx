@@ -46,7 +46,7 @@ const Contact = () => {
                   type={"text"}
                 />
                 <label htmlFor="name" className="nameLabel">
-                  Name:Shaik Uzma Tabassum
+                  Name:N.Hima Bindu
                 </label>
               </div>
               <div>
@@ -57,7 +57,7 @@ const Contact = () => {
                   type={"text"}
                 />
                 <label htmlFor="email" className="emailLabel">
-                  Email:uzmatabassumshaik@gmail.com
+                  Email:himabindunagadasari@gmail.com
                 </label>
               </div>
               <div>
